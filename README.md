@@ -5,7 +5,7 @@
 **This me fr 😫**
 ![](images/vibecoder.png)
 
-#### Activity
+### Activity
 
 ![](images/activity.png)
 – Jan 1st. 2026
