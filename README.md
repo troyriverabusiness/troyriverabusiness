@@ -1,8 +1,8 @@
 # Troy 🩵👨‍🍳 
 
-**`Building stuff. From S**** & R****`** 
+**`Building stuff`** 
 
-**This me fr 😫**
+
 ![](images/vibecoder.png)
 
 ### Activity
