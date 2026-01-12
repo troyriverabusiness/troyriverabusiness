@@ -19,7 +19,7 @@
 
 **Web Dev | SWE | Infra**
 
-[![Web Dev](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vite,figma&theme=light)](https://skillicons.dev)
-[![SWE](https://skillicons.dev/icons?i=git,github,gitlab,go,java,py,ocaml,postgres,postman,graphql,fastapi,flask,supabase,vercel&theme=light)](https://skillicons.dev)
-[![Infrastructure](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux&theme=light)](https://skillicons.dev)
+[![Web Dev](https://skillicons.dev/icons?i=html,css,figma&theme=light)](https://skillicons.dev)
+[![SWE](https://skillicons.dev/icons?i=git,github,gitlab,go,java,py,swift,fastapi,&theme=light)](https://skillicons.dev)
+[![Infrastructure](https://skillicons.dev/icons?i=aws,docker,linux&theme=light)](https://skillicons.dev)
 
