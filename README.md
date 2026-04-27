@@ -8,7 +8,7 @@
 ### Activity
 
 ![](images/activity.png)
-– Jan 1st. 2026
+Jan 1st. 2025 – Jan 1st. 2026
 
 **Custom made heatmap** 
 [Check it out 🔥](https://github.com/troyriverabusiness/git-heatmaps)
